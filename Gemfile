@@ -52,3 +52,6 @@ gem 'font-awesome-rails'
 
 # Use SimpleForm
 gem 'simple_form'
+
+# Use Devise Authentication
+gem 'devise'

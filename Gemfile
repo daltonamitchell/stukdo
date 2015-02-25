@@ -32,12 +32,6 @@ group :doc do
   gem 'sdoc', require: false
 end
 
-# Use Twitter Bootstrap
-gem 'twitter-bootstrap-rails', :git => 'git://github.com/seyhunak/twitter-bootstrap-rails.git'
-
-# Use FontAwesome
-gem 'font-awesome-rails'
-
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.1.2'
 
@@ -49,3 +43,12 @@ gem 'font-awesome-rails'
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
+
+# Use Twitter Bootstrap
+gem 'twitter-bootstrap-rails', :git => 'git://github.com/seyhunak/twitter-bootstrap-rails.git'
+
+# Use FontAwesome
+gem 'font-awesome-rails'
+
+# Use SimpleForm
+gem 'simple_form'

@@ -55,3 +55,6 @@ gem 'simple_form'
 
 # Use Devise Authentication
 gem 'devise'
+
+# Auto HTML
+gem 'auto_html'
